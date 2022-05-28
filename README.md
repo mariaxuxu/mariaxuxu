@@ -46,6 +46,8 @@
   <img align="center" alt="Made with" src="https://user-images.githubusercontent.com/105522714/170810134-42fb871b-6142-4efd-9518-920f5643328b.jpg" height="30" />
   </div>
   
+  ![Snake animation](https://github.com/mariaxuxu/mariaxuxu/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
           
