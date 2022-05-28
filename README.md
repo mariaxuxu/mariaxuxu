@@ -38,6 +38,9 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:m.clara.xuh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+  ![built-by-_maria_](https://user-images.githubusercontent.com/105522714/170809267-e009dfac-9b4c-4319-b6e3-8b4aeafb1e5e.jpg)
+
+  
 </div>
 
           
