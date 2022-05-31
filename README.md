@@ -63,9 +63,13 @@
   <div align="center"><br>
   <img align="center" alt="By Maria" src="https://user-images.githubusercontent.com/105522714/170809267-e009dfac-9b4c-4319-b6e3-8b4aeafb1e5e.jpg" height="30" />
   <img align="center" alt="Made with" src="https://user-images.githubusercontent.com/105522714/170810134-42fb871b-6142-4efd-9518-920f5643328b.jpg" height="30" />
-    </div>
+      
+  </div>
 
-  ![Snake animation](https://raw.githubusercontent.com/mariaxuxu/mariaxuxu/output/github-contribution-grid-snake.svg)
+ 
+
 </div>
+  
+  ![Snake animation](https://raw.githubusercontent.com/mariaxuxu/mariaxuxu/output/github-contribution-grid-snake.svg)
 
   
