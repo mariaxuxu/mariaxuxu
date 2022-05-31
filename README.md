@@ -39,7 +39,7 @@
 
 ##
 <div>
-   <img align="right" style="margin-left:300" src="https://user-images.githubusercontent.com/105522714/171261788-6a9058ff-01c6-4a41-b9b0-2508c2489b56.gif" height="100" width="100"/><br><br>
+   <img align="right" style="margin-left:300" src="https://user-images.githubusercontent.com/105522714/171261788-6a9058ff-01c6-4a41-b9b0-2508c2489b56.gif" height="100" width="100"/><br>
   </div>
 <div> 
   <a href="https://twitter.com/mariipspsps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
