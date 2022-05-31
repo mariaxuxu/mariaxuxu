@@ -48,8 +48,8 @@
 
  
   <div align="center">  
-  <h4>Visitor's count</h4>
-  <p><img src="https://profile-counter.glitch.me/mariaxuxu/count.svg" alt="Visitor's Count" title="Visitor's Count"/></p>    
+    <h4> Visitor's count</h4>
+    <img src="https://profile-counter.glitch.me/mariaxuxu/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
   </div>
   
   <div align="center"><br>
