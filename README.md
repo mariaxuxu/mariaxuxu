@@ -17,7 +17,7 @@
  ##
 
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
  
   <img align="center" alt="Maria-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -45,7 +45,7 @@
   <a href="https://twitter.com/mariipspsps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/https.mariiax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:m.clara.xuh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
-  </a> 
+  </a><br>
  
  
   <div align="center"><br>
