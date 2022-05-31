@@ -38,7 +38,9 @@
 
 
 ##
-   <img align="right" style="margin-left:300" src="https://user-images.githubusercontent.com/105522714/171261788-6a9058ff-01c6-4a41-b9b0-2508c2489b56.gif" height="60" width="60"/>
+<div>
+   <img align="right" style="margin-left:300" src="https://user-images.githubusercontent.com/105522714/171261788-6a9058ff-01c6-4a41-b9b0-2508c2489b56.gif" height="100" width="100"/>
+  </div>
 <div> 
   <a href="https://twitter.com/mariipspsps" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/https.mariiax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -48,7 +50,7 @@
 
  
   <div align="center">  
-    <h4> Visitor's count</h4>
+    <h4>    Visitor's count</h4>
     <img src="https://profile-counter.glitch.me/mariaxuxu/count.svg" alt="Visitor's Count" title="Visitor's Count"/>
   </div>
   
