@@ -3,7 +3,7 @@
 ##
 
 - 🖥️ Atualmente estudando SQL, Java, Typescript, JavaScript, Python... 🖥️ 
-- 📓 Cursando Desenvolvimento de Sistemas no Colégio Técnico de Campinas - COTUCA - Unicamp 📓
+- 📓 Téc. em Desenvolvimento de Sistemas no Colégio Técnico de Campinas - COTUCA (Unicamp) 📓
 
 ##
 
